@@ -10,15 +10,11 @@
 
 @keyframes scale-up-ver-top {
 0% {
-    -webkit-transform: scaleY(0.4);
             transform: scaleY(0.4);
-    -webkit-transform-origin: 100% 0%;
             transform-origin: 100% 0%;
 }
 100% {
-    -webkit-transform: scaleY(1);
             transform: scaleY(1);
-    -webkit-transform-origin: 100% 0%;
             transform-origin: 100% 0%;
 }
 }
@@ -830,7 +826,7 @@ html,body,.root{
         padding-bottom: 20px;
         font-family: Bold;
         font-size: 20px;
-        border: 1px solid hsl(220, 14%, 75%);
+        border-bottom: 1px solid hsl(220, 14%, 75%);
     }
     
     #empty{
