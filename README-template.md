@@ -74,7 +74,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Youssef Graiess](https://www.graiess073029.github.io/eCommerceChallenge/)
-- Frontend Mentor - [@Graiess_Youssef](https://www.frontendmentor.io/profile/Graiess_Youssef)
+- Frontend Mentor - [@graiess073029](https://www.frontendmentor.io/profile/Graiess_Youssef)
 
 ## Acknowledgments
 
